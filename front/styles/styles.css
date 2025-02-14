@@ -19,6 +19,21 @@ body {
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
 }
 
+footer {
+    background-color: #ffc107; /* Amarillo similar al header */
+    color: #8b0000; /* Rojo oscuro */
+    text-align: center;
+    padding: 10px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.2);
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  
+
 .elements {
 
     display: flex;
